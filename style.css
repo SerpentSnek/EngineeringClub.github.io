@@ -32,7 +32,7 @@ h2 {
   font-size: 40px;
 }
 
-.hadron-img {
+body {
   background-image: url("lha.jpg");
   min-height: 50%;
   background-attachment: fixed;
